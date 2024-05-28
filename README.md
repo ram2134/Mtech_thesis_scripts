@@ -7,4 +7,4 @@ This Repo contains all the files that are required to be added in the engine con
 <b>t1.argfile:</b> It contains the command to add all required classpath files to successfully compile and execute the xdata class file.
 <br>
 <h2>You can find more details of these files in the thesis report.</h2>
- Link to report,ppt & Demo video: <a href = "[https://drive.google.com/drive/folders/1UmlfA60N5nVrn1q4Vd8R6aM8ZJ_r7trr?usp=drive_link](https://drive.google.com/file/d/1zF98QOEqmyyzxc5uK14At5nuK4BY7yKC/view?usp=sharing)">here</a>
+ Link to report,ppt & Demo video: <a href = "https://drive.google.com/drive/u/1/folders/1ERlQ3PbjP1IwokTVhXsVLBuCjl22KxoG">here</a>
